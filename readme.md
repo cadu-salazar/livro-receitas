@@ -3,3 +3,4 @@
 Bem vindo ao livro de receitas :factory:
 
 - strogonoff de frango
+- pastel
